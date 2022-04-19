@@ -1,0 +1,4 @@
+VARIABLES="Period (s)" "|Fx| (N/m)" "|Fy| (N/m)" "|Fz| (N/m)" "|Cx| (N)" "|Cy| (N)" "|Cz| (N)" "ang(Fx) (°)" "ang(Fy) (°)" "ang(Fz) (°)" "ang(Cx) (°)" "ang(Cy) (°)" "ang(Cz) (°)"
+Zone t="Corps  1"
+Zone t="Diffraction force - beta =   0.000 deg",I=     1,F=POINT
+ 4.1000  0.101105E+04  0.402657E-04  0.101213E+05  0.718966E-03  0.322851E+04  0.513034E-12  -20.82 -127.39    8.69 -108.17 -200.82 -148.59
